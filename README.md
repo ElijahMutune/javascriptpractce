@@ -1,2 +1,2 @@
-# javascriptpractce
+# javascriptpractice
 practice project
